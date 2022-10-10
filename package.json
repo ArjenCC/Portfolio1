@@ -21,17 +21,17 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
-  "description": "Assignment 1 by Inderpreet Singh",
+  "description": "Assignment 1 by Arian Sadeghi",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder.git"
+    "url": "git+https://github.com/ArjenCC/Portfolio1"
   },
-  "author": "301143816 inderpreet singh",
+  "author": "301217274 Arian Sadeghi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder/issues"
+    "url": "https://github.com/ArjenCC/Portfolio1/issues"
   },
-  "homepage": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder#readme"
+  "homepage": "https://github.com/ArjenCC/Portfolio1#readme"
 }
